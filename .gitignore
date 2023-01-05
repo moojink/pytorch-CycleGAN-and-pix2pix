@@ -41,3 +41,7 @@ test/.coverage
 test/data/legacy_serialized.pt
 *~
 .idea
+hchd/images-*
+sbatch_logs/
+mooj-commands.txt
+train_cyclegan.sh
